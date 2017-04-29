@@ -1,0 +1,22 @@
+.banner {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+body {
+  background-color: black;
+}
+
+.download {
+  font-size: 16px;
+
+  text-align: center;
+}
+
+.download a{
+  color: aquamarine;
+}
