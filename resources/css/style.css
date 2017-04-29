@@ -9,6 +9,7 @@
 
 body {
   background-color: black;
+  color: white;
 }
 
 .download {
@@ -19,4 +20,24 @@ body {
 
 .download a{
   color: aquamarine;
+}
+
+.video {
+  width: 404px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.personal {
+  font-family: verdana;
+  font-weight: 400;
+  font-size: 42px;
+  text-align: center;
+}
+
+.set1 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
 }
